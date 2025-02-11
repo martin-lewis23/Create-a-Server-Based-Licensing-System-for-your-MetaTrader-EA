@@ -49,8 +49,7 @@ Contact 4xPip customer support whenever you need. They shall immediately connect
 
 1. The Account number is fetched and saved into the database automatically without any manual effort of EA owner.
 2. The customers do not need to insert the license key when installing the EA for the 2nd, 3rd time and so on. They only insert the license key for the      first time and the Account Number is saved into the database. 
-
-3.The license system can be integrated without EA owner providing us their source code mql file
+3. The license system can be integrated without EA owner providing us their source code mql file
 
 # Create a Server Based Licensing System for Your MetaTrader EA in 2025
 
