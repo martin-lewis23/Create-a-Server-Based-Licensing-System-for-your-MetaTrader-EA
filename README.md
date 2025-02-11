@@ -13,27 +13,42 @@ Moreover, it offers a web portal to manage customers, their account numbers, and
 
 They help you to protect your EA so that only authorized users can use it. You will be able to manage a list of customers, their account numbers, and expiry dates.
 
-Not hackable: The MetaTrader License System operates on end-to-end encryption and cloud protection technique which is not hackable.
-Export your licenses into Excel/CSV/PDF file: You will be able to export subscriptions/customer data into Excel, CSV, and Pdf files.
-Add as many customers as you want: Also, there is no limit on the number of customers.
-Very Economical pricing: Start with as little as $30 and pay as you go.
-Encrypted license key: The MT4 license system provides an encrypted key for each user which is not crackable.
-Easy to operate: Furthermore, customers just have to enter a key and everything will be managed by the license system.
-A centralized web portal to manage licenses: Trader is given a centralized web portal to manage customers, bots, subscriptions, account numbers, and their expiry dates.
-Manage Customers: You will be able to add, remove, or edit customers. You can also add the customer's contact information, to stay in touch with him.
-Keep track of Customers: The MT4 license system provides you the facility to keep track of your Active, Expired, and Total customers
-Account numbers: Moreover, you can view the list of account numbers and every customer who owns them.
-Expiry date: Extend/Remove the subscription of any customer anytime through simple clicks. You can update the expiry date whenever you want
-Renew license: It will redirect customers to you whenever their license is Expired. Customers will see a message to contact their seller to purchase new licenses.
+# Not hackable: 
+The MetaTrader License System operates on end-to-end encryption and cloud protection technique which is not hackable.
+# Export your licenses into Excel/CSV/PDF file: 
+You will be able to export subscriptions/customer data into Excel, CSV, and Pdf files.
+# Add as many customers as you want: 
+Also, there is no limit on the number of customers.
+# Very Economical pricing:
+Start with as little as $30 and pay as you go.
+# Encrypted license key: 
+The MT4 license system provides an encrypted key for each user which is not crackable.
+# Easy to operate: 
+Furthermore, customers just have to enter a key and everything will be managed by the license system.
+# A centralized web portal to manage licenses:
+Trader is given a centralized web portal to manage customers, bots, subscriptions, account numbers, and their expiry dates.
+# Manage Customers:
+You will be able to add, remove, or edit customers. You can also add the customer's contact information, to stay in touch with him.
+# Keep track of Customers:
+The MT4 license system provides you the facility to keep track of your Active, Expired, and Total customers
+# Account numbers: 
+Moreover, you can view the list of account numbers and every customer who owns them.
+# Expiry date: 
+Extend/Remove the subscription of any customer anytime through simple clicks. You can update the expiry date whenever you want
+# Renew license: 
+It will redirect customers to you whenever their license is Expired. Customers will see a message to contact their seller to purchase new licenses.
 Simple & Easy to use: Furthermore, 4xPip has designed a very simple license system that is easy to operate at your end and customers’ end. You can use it just by following simple steps.
-No Technical knowledge required: You do not require any technical knowledge to operate it. We will give you a friendly web portal to manage MetaTrader licenses.
-Friendly interface: Lastly, the web portal has a friendly interface and brilliant UI UX.
-Vip customer support: Contact 4xPip customer support whenever you need. They shall immediately connect with you and resolve your queries.
+# No Technical knowledge required: 
+You do not require any technical knowledge to operate it. We will give you a friendly web portal to manage MetaTrader licenses.
+# Friendly interface: 
+Lastly, the web portal has a friendly interface and brilliant UI UX.
+# Vip customer support: 
+Contact 4xPip customer support whenever you need. They shall immediately connect with you and resolve your queries.
 
 # Exclusive Benefits that only 4xpip Server-Based Licensing System Provides you:
 
 1. The Account number is fetched and saved into the database automatically without any manual effort of EA owner.
-2. The customers do not need to insert the license key when installing the EA for the 2nd, 3rd time and so on. They only insert the license key for the first time and the Account Number is saved into the database. 
+2. The customers do not need to insert the license key when installing the EA for the 2nd, 3rd time and so on. They only insert the license key for the      first time and the Account Number is saved into the database. 
 
 3.The license system can be integrated without EA owner providing us their source code mql file
 
